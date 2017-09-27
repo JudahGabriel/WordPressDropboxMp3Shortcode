@@ -8,7 +8,7 @@ Author: Judah Gabriel Himango
 Version: 1.0
 Author URI: http://twitter.com/judahgabriel
 Tags: Search
-License: GPLv3
+License: https://github.com/JudahGabriel/WordPressDropboxMp3Shortcode/blob/master/LICENSE
 */
 
 // [mp3]
